@@ -4,13 +4,13 @@
 Please modify the 'data.php' file by adding the API Key before executing it.
 
 [line no. 21, data.php]
-![Index page](api_key_change.png)
+![Index page](/api_key_change.png)
 
 
 ## GUI
 
-![Index page](index.png)
-![Graph page](graph.png)
+![Index page](/index.png)
+![Graph page](/graph.png)
 
 
 ## Libraries Used
